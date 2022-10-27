@@ -1,0 +1,23 @@
+body{
+	background-color:#87ceeb;
+	}
+
+h1{
+	padding:20px;
+	background-color: #f44336;
+	color:white;
+	margin-bottom:15px;
+	margin-right:40px;
+     font-size:40px;
+}
+p{
+	font-size:25px;
+	font-weight:bold;
+	font-family:courier;
+}
+img{
+	margin-left:40px;
+	margin-bottom:60px;
+	padding:20px;
+	
+}
